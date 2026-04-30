@@ -4,13 +4,13 @@ A curated collection of, outdated, deprecated, and "ancient" cybersecurity docum
 
 <h3><i>"If I have seen further, it is by standing on the shoulders of Giants."</i></h3>
 <h3>💡 Why This Repo?</h3>
-<p>Just because a technology is obsolete doesn't mean its security principles are useless. Often, modern vulnerabilities are just creative re-implementations of flaws discovered decades ago. This repo acts as a "BiblioTech" - a library for:</p><ul><li>
-
-🏛️ The Technical Archivist: Preserving the digital blueprints of our computing heritage.</li>
-<li><b>⚙️ **The Security Engineer:**</b> Studying ancestral exploits to better understand modern threat vectors.</li>
-<li><b>**🧠 The Naturally Curious**:</b> Those with an insatiable need to understand the "first principles" of how things were made.</li>
-<li><b>**🕵️ The Digital Forensics Expert**:</b> Looking for the origins of logic flaws that still persist in legacy code today.</li>
-<li><b>**🎓 The Academic**:</b> Connecting gaps between theoretical foundations and the current state of the art.</li></ul>
+<p>Just because a technology is obsolete doesn't mean its security principles are useless. Often, modern vulnerabilities are just creative re-implementations of flaws discovered decades ago. This repo acts as a "BiblioTech" - a library for:</p><ul>
+<li>
+<b>🏛️ The Technical Archivist:</b> Preserving the digital blueprints of our computing heritage.</li>
+<li><b>⚙️ The Security Engineer:</b> Studying ancestral exploits to better understand modern threat vectors.</li>
+<li><b>🧠 The Naturally Curious:</b> Those with an insatiable need to understand the "first principles" of how things were made.</li>
+<li><b>🕵️ The Digital Forensics Expert:</b> Looking for the origins of logic flaws that still persist in legacy code today.</li>
+<li><b>🎓 The Academic:</b> Connecting gaps between theoretical foundations and the current state of the art.</li></ul>
 <hr />
 <h2>🤝 Contribution Guidelines</h2>
 <p>We want this library to grow! If you have a document that changed your perspective on security, or a document you want to share, please share it!</p>
