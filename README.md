@@ -2,7 +2,8 @@
 A curated collection of, outdated, deprecated, and "ancient" cybersecurity documentation, papers, and tools that remain foundational to modern security practices.
 
 
-<h3><i>"If I have seen further, it is by standing on the shoulders of Giants."</i></h3>
+<center><h3><i>"If I have seen further, it is by standing on the shoulders of Giants."</i></h3></center>center>
+<hr/><hr />
 <h3>💡 Why This Repo?</h3>
 <p>Just because a technology is obsolete doesn't mean its security principles are useless. Often, modern vulnerabilities are just creative re-implementations of flaws discovered decades ago. This repo acts as a "BiblioTech" - a library for:</p><ul>
 <li>
